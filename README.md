@@ -17,6 +17,7 @@ Hệ thống đọc dữ liệu nhiệt độ từ cảm biến LM35 và gửi l
 | Dây cắm | 10 | Dây kết nối |
 
 ## 4. Cấu trúc thư mục
+```text
 Arduino_LM35_TempMonitor/
 ├── firmware/              # Mã nguồn Arduino (3 kênh + JSON)
 │   └── LM35_TempReader/
