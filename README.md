@@ -26,6 +26,7 @@ Arduino_LM35_TempMonitor/
 ├── simulation/            # File mô phỏng (Proteus/Tinkercad)
 ├── .gitignore             # Quy tắc loại bỏ tệp biên dịch rác
 └── README.md              # Giới thiệu và hướng dẫn dự án
+```
 
 ## 5. Thành viên nhóm
 * Nguyễn Phan Tấn Đạt - MSSV: N23DCCI012
