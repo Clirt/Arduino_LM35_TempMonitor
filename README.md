@@ -31,3 +31,5 @@ Arduino_LM35_TempMonitor/
 ## 5. Thành viên nhóm
 * Nguyễn Phan Tấn Đạt - MSSV: N23DCCI012
 * Nguyễn Bình An - MSSV: N23DCCI001
+
+**Tác giả:** [Nguyễn Phan Tấn Đạt](https://Clirt.github.io)
